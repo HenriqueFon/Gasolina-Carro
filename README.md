@@ -5,15 +5,22 @@
   Esse arquivo foi um trabalho para o meu curso de POO baseado no que foi ensinado em sala até o momento.
  
  **Enunciado**
+ 
+ 
   Implemente uma classe que modele um carro. Sabe-se que:
+  
 • Um carro pode ser a álcool (etanol) ou a gasolina;
+
 • Carros a álcool consomem 1 litro a cada 7km rodados; carros a gasolina, 1 litro a cada 
 10km;
+
 • Cada carro fabricado tem seu tanque de combustível com capacidades que podem 
 variar de 40 a 50 litros
 Deve ser possível:
+
 • Abastecer um carro com uma certa quantidade de combustível, respeitando a 
 capacidade do tanque;
+
 • Mover um carro uma determinada distância dist (medida em km), desde que haja 
 combustível suficiente, ou a distância que for possível com o combustível disponível.
 No método main(), crie 2 carros: o primeiro a álcool e o segundo, a gasolina. Inicialmente,
